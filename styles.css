@@ -1,0 +1,32 @@
+.b1 {
+   display:inline-block;
+   position: relative;
+   width:100px;
+   height:100px;
+   padding: 50px;
+   margin: 5px;
+   background-color: #c2d2cc;
+   border: 5px solid #7b9088;
+}
+
+.b2 {
+   display:inline-block;
+   position: relative;
+   width:100px;
+   height:100px;
+   padding: 50px;
+   margin: 5px;
+   background-color: #f9e090;
+   border: 5px solid #c4a338;
+}
+
+.b3 {
+   display:inline-block;
+   position: relative;
+   width:100px;
+   height:100px;
+   padding: 50px;
+   margin: 5px;
+   background-color: #f0aa81;
+   border: 5px solid #b85b24;
+}
